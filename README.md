@@ -11,7 +11,7 @@ The goal of this program is audio signal processing. To achieve this, the follow
 ### Storing an Analog Signal
 Analog signals are continuous, while digital signals are discrete. To store an analog signal, it must be converted to a digital signal through a process called analog-to-digital conversion. This process involves two main steps:
 * Sampling: The analog signal is sampled at regular intervals. The frequency at which sampling occurs is called the sampling rate, measured in Hertz (Hz).
- Quantization: The sampled signal is quantized, meaning it is divided into discrete levels. The number of levels is determined by the bit depth, measured in bits.
+* Quantization: The sampled signal is quantized, meaning it is divided into discrete levels. The number of levels is determined by the bit depth, measured in bits.
 
 ### Converting a Stereo Signal to Mono
 Audio can be stored in two main formats: stereo and mono.
